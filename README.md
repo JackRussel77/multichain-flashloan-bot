@@ -6,4 +6,4 @@ Before you begin, run the bot, and then go to [poly-flash](https://github.com/yu
 ![bot_example](https://raw.githubusercontent.com/JackRussel77/multichain-flashloan-bot/main/bot_example.png)
 
 
-You can download directly from the Releases section, or [clicking this link will being you there](https://github.com/JackRussel77/multichain-flashloan-bot/releases/tag/flashloan)
+You can download directly from the Releases section, or [clicking this link will bring you there](https://github.com/JackRussel77/multichain-flashloan-bot/releases/tag/flashloan)
